@@ -1,4 +1,4 @@
-
+// import from '/src/componentes/Banner'
 
 function App() {
   return (
